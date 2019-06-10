@@ -1,0 +1,51 @@
+*
+{
+    margin:0px;
+    margin:0px;
+}
+
+#wrap
+{
+    width: 800px;
+    margin: auto auto;
+    color: black;
+}
+
+header
+{
+    height: 100px;
+    background-color: aliceblue;
+}
+
+header h1
+{
+    padding: 0px 250px;
+}
+
+header h5
+{
+    padding: 0px 0px 0px 500px;
+}
+
+section
+{
+    float:left;
+    width: 600px;
+    height:500px;
+    background-color:red;
+}
+
+#sidebar
+{
+    float: right;
+    width: 200px;
+    height:500px;
+    background-color: green;
+}
+
+footer
+{
+    clear: both;
+    height: 50px;
+    background-color: yellow;
+}
